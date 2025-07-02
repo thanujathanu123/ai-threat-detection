@@ -1,0 +1,52 @@
+# Ignore everything by default
+*
+
+# Allow only specific files and directories that match our professional structure
+
+# Core application files
+!cybershield_dashboard.py
+!requirements.txt
+!README.md
+!LICENSE
+!.gitignore
+
+# App directory with models
+!app/
+!app/random_forest_model.pkl
+!app/gradient_boost_model.pkl
+!app/model.pkl
+
+# Data directory with preprocessing scripts
+!data/
+!data/data_preprocessing.py
+!data/predict.py
+!data/train_model.py
+
+# Source directory with core functionality
+!src/
+!src/packet_sniffer.py
+!src/real_time_dashboard.py
+
+# Launcher scripts
+!Start_CyberShield.bat
+!Create_Desktop_Shortcut.bat
+!run_monitor.py
+
+# Documentation
+!HOW_TO_RUN.md
+!create_placeholder_models.py
+
+# Still exclude these patterns even if they match allowed patterns
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints
+.vscode/
+.idea/
+venv/
+ENV/
+*.log
