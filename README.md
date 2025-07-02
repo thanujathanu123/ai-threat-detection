@@ -11,6 +11,13 @@ This project is a machine learning-based threat detection system built to identi
 - **Batch Analysis**: Upload and analyze network log files (CSV format)
 - **Command-line Interface**: Run monitoring without the dashboard for headless operation
 
+## 📸 Dashboard Preview
+
+### 🧠 Main Dashboard View:
+![Dashboard](./screenshots/dashboard.png)
+
+### 🚦 Real-time Monitoring View:
+![Monitoring](./screenshots/monitoring.png)
 
 
 
