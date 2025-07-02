@@ -132,8 +132,7 @@ ai-threat-detection/
 - Always obtain proper authorization before monitoring network traffic
 - Performance may vary based on network traffic volume and system resources
 
-## 👨‍💻 Author
-Built with 💡 by Thanu | Final Year B.Tech (Cybersecurity)
+
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
